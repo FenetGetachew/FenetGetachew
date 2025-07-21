@@ -5,7 +5,7 @@ A Computer Science student at Minnesota State University, Mankato, passionate ab
 - 🌱 I'm learning **Full-Stack Development** and **Machine Learning**
 - 👯 I'm open to collaborating on **open source projects** and **social impact tech**
 - 💬 Ask me about **React**, **Python**, **Web Development**, or **APIs**
-- 📫 Reach me at: **fenet.getachew@mnsu.edu**
+- 📫 Reach out at: **fenet.getachew@mnsu.edu**
 <!-- ⚡ Fun fact: [Your new fun fact here] -->
 
 ## 🛠️ Tech Stack
@@ -33,7 +33,7 @@ A Computer Science student at Minnesota State University, Mankato, passionate ab
 
 ## 🎯 Featured Projects
 
-### 📚 [FEDA - Educational Video Platform](link-to-feda-repo)
+### 📚 [FEDA - Educational Video Platform](https://github.com/FenetGetachew/feda-app)
 A short-form video platform focused on educational content with category-based filtering and hashtag algorithms.
 - **Tech Stack:** React, Python, Firebase
 - **Features:** Content categorization, user feed curation, real-time recommendations
