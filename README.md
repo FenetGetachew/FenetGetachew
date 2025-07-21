@@ -6,7 +6,7 @@ A Computer Science student at Minnesota State University, Mankato, passionate ab
 - 👯 I'm open to collaborating on **open source projects** and **social impact tech**
 - 💬 Ask me about **React**, **Python**, **Web Development**, or **APIs**
 - 📫 Reach me at: **fenet.getachew@mnsu.edu**
-##- ⚡ Fun fact: [Your new fun fact here]
+<!-- ⚡ Fun fact: [Your new fun fact here] -->
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ A short-form video platform focused on educational content with category-based f
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenet-getachew/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fenet.getachew@mnsu.edu)
 
