@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Fenet! 👋
+A Computer Science student at Minnesota State University, Mankato, passionate about building web applications that solve real-world problems. 
 
 <!--
 **FenetGetachew/FenetGetachew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
