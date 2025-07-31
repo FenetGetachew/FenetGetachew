@@ -39,7 +39,7 @@ A short-form video platform focused on educational content with category-based f
 - **Tech Stack:** React, Python, Firebase
 - **Features:** Content categorization, user feed curation, real-time recommendations
 - **Status:** Frontend complete, backend in development
-### 🎨 FitPick - AI Outfit Generator
+### [FitPick - AI Outfit Generator](https://github.com/FenetGetachew/FitPick)
 AI-powered outfit recommendations using OpenAI GPT with user authentication and MongoDB integration.
 * **Tech Stack:** Node.js, Express, MongoDB, OpenAI API
 * **Features:** User auth, AI recommendations, responsive design
