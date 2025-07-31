@@ -1,10 +1,11 @@
 ## Hi there, I'm Fenet! 👋
 I'm a Computer Science student at Minnesota State University, Mankato, passionate about building web applications that solve real-world problems and driven to create technology that makes a meaningful impact.
 
-- 🔭 I'm currently working on **FitPick** (AI-powered Outfit Generator) and **EthioBiz** (Business Website Builder)
+- 🔭 I recently completed the core features of **FitPick** (AI-powered Outfit Generator)- final polish in progress.
+- 🚧 I'm currently building **EthioBiz** (Business Website Builder)
 - 🌱 I'm learning **Full-Stack Development** and **Machine Learning**
 - 👯 I'm open to collaborating on **open source projects** and **social impact tech**
-- 💬 Ask me about **React**, **Python**, **Web Development**, or **APIs**
+- 💬 Ask me about **React**, **Python**, **Web Development**, **APIs** or **Databases**
 - 📫 Reach out at: **fenet.getachew@mnsu.edu**
 <!-- ⚡ Fun fact: [Your new fun fact here] -->
 
