@@ -31,19 +31,25 @@ I'm a Computer Science student at Minnesota State University, Mankato, passionat
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 📚 [FEDA - Educational Video Platform](https://github.com/FenetGetachew/feda-app)
+### [FEDA - Educational Video Platform](https://github.com/FenetGetachew/feda-app)
 A short-form video platform focused on educational content with category-based filtering and hashtag algorithms.
 - **Tech Stack:** React, Python, Firebase
 - **Features:** Content categorization, user feed curation, real-time recommendations
 - **Status:** Frontend complete, backend in development
+### 🎨 FitPick - AI Outfit Generator
+AI-powered outfit recommendations using OpenAI GPT with user authentication and MongoDB integration.
+* **Tech Stack:** Node.js, Express, MongoDB, OpenAI API
+* **Features:** User auth, AI recommendations, responsive design
+* **Status:** Core functionality complete, authentication debugging
 
 *More projects coming soon as I finish building them!*
 
 ## 🌟 Current Focus
 
-- 🔥 Launching Outfit Generator and Business Website builder platforms with full-stack functionality
+- 💻 Building full-stack features: user login, API key protection, dynamic recommendations
+- 🌱 Growing technical skills through real-world projects and backend architecture
 - 🎯 Exploring machine learning applications in educational technology
 - 🤝 Contributing to open source projects and building developer community
 
