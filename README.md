@@ -46,7 +46,7 @@ AI-powered outfit recommendations using OpenAI GPT with user authentication and 
 * **Status:** Core functionality complete, authentication debugging
 ### [EthioBiz-Builder - Website Creation Tool](https://github.com/FenetGetachew/EthioBiz-Builder)
 A React-based website builder specifically designed for Ethiopian businesses, featuring customizable templates for restaurants, retail stores, and service providers with mobile-responsive design.
--* **Tech Stack:** React, JavaScript, Node.js
+* **Tech Stack:** React, JavaScript, Node.js
 * **Features:** Dynamic template system, modal-based form collection, business detail capture, localized content support
 * **Status:** Core functionality complete, template library expanding
   
