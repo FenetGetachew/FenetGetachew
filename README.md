@@ -49,7 +49,15 @@ A React-based website builder specifically designed for Ethiopian businesses, fe
 * **Tech Stack:** React, JavaScript, Node.js
 * **Features:** Dynamic template system, modal-based form collection, business detail capture, localized content support
 * **Status:** Core functionality complete, template library expanding
+
+### [Engineering Maching Design Contest- Competition PLatform](https://emdcresults.com/)
+A full-stack web application designed to manage real-time scoring, rankings, and reporting for large-scale engineering competitions, supporting judges, teams, and organizers.
+* **Tech Stack:** React, TypeScript, Python, Django, PostgreSQL, Docker
+* **Features:** Real-time scoring system, multi-team evaluation, role-based dashboards (judges, coaches, organizers), support for preliminary, championship, and redesign rounds, automated PDF report generation, contest management tools
+* **Highlights:** Built scalable REST APIs, implemented microservices architecture, and deployed with Docker + CI/CD on Render/Vercel
+* **Status:** Production-ready, actively used in live competition environment
   
+
 *More projects coming soon as I finish building them!*
 
 ## 🌟 Current Focus
