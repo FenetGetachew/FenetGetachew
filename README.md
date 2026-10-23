@@ -40,17 +40,16 @@ A full-stack web application designed to manage real-time scoring, rankings, and
 * **Features:** Real-time scoring system, multi-team evaluation, role-based dashboards (judges, coaches, organizers), support for preliminary, championship, and redesign rounds, automated PDF report generation, contest management tools
 * **Highlights:** Built scalable REST APIs, implemented microservices architecture, and deployed with Docker + CI/CD on Render/Vercel
 * **Status:** Production-ready, actively used in live competition environment
-
-### [FEDA - Educational Video Platform](https://github.com/FenetGetachew/feda-app)
-A short-form video platform focused on educational content with category-based filtering and hashtag algorithms.
-- **Tech Stack:** React, Python, Firebase
-- **Features:** Content categorization, user feed curation, real-time recommendations
-- **Status:** Frontend complete, backend in development
 ### [Grade Pilot - Course Grade and What-If Planner](https://github.com/FenetGetachew/grade-pilot)
 A grading-policy simulator built by a three-person team for the CCSC Midwest 2026 Hackathon. Students enter their course policies and scores to understand their current grade and explore what they need to reach a target letter grade.
 - **Tech Stack:** Python, Streamlit, Git, GitHub
 - **Features:** Configurable grading policies, weighted grade calculations, dropped-score rules, final-exam replacement, and interactive what-if scenarios
 - **My Contribution:** Developed the What-If Planner, set up the GitHub repository, and helped integrate the team’s components
+### [FEDA - Educational Video Platform](https://github.com/FenetGetachew/feda-app)
+A short-form video platform focused on educational content with category-based filtering and hashtag algorithms.
+- **Tech Stack:** React, Python, Firebase
+- **Features:** Content categorization, user feed curation, real-time recommendations
+- **Status:** Frontend complete, backend in development
 ### [FitPick - AI Outfit Generator](https://github.com/FenetGetachew/FitPick)
 AI-powered outfit recommendations using OpenAI GPT with user authentication and MongoDB integration.
 * **Tech Stack:** Node.js, Express, MongoDB, OpenAI API
